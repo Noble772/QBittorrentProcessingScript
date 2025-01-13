@@ -1,0 +1,8 @@
+[
+  "--ui-language",
+  "en",
+  "--priority",
+  "lower",
+  "--track-order",
+  "0:0,0:1"
+]
