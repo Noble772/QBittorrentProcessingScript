@@ -4,6 +4,7 @@ I've included 2 processing scripts with the simple_processing.bat only remuxing 
 
 How to Setup:
 First you will need to edit the script to include your own desired directories. You will then need to setup torrent blackholes in your -arr stack.
+You will also need to get mkvtoolnix and make sure you have python installed.
 
 Radarr Example:
 ![image](https://github.com/user-attachments/assets/fb01552c-a200-4d0b-a20e-be982b3df4a9)
